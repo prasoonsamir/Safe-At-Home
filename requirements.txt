@@ -1,3 +1,10 @@
+jupyterlab
+requests
+pandas
+textblob
+plotly-express
 voila
-voila-material
-HomeLife360June3
+numpy
+ipywidgets
+sklearn
+matplotlib.pyplot
