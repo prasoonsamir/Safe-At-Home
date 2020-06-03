@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True HomeLife360June3.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True HomeLife360June3.ipynb
