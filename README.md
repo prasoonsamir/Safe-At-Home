@@ -1,1 +1,3 @@
-# Monitoring daily activities of elderly people at home for any health concerns
+# Remotely monitoring daily activities of elderly people at home for any health concerns
+
+## The objective of the project is to develop a web app which can remotely monitor the daily activities of an elderly person at home for any health concerns (including physical and mental disability, chronic illness, Alzheimer etc). That would include placing IOT enabled motion sensors in each room of the smart home, which would send the binary signals in the form of 'ON' and 'OFF' to the cloud. These signals can pre-processed to deduce the meaningful hourly or daily activities, where the ML algorithm would detect any anomalies in the activities data and subsequent alert can be sent to the caregiver in his app.
